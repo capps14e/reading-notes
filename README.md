@@ -13,3 +13,5 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 1. Remember that nothing worthwhile comes easy
 
 [My GitHub Page](https://github.com/capps14e)
+
+
