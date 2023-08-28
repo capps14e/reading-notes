@@ -17,15 +17,3 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 
 ![image](https://github.com/capps14e/capps14e.github.io/assets/143365157/e473daca-2990-473e-8b25-ff77f27daf50)
 
-git clone https://github.com/capps14e/capps14e.github.io
-
-cd capps14e.github.io
-
-echo "Hello World" > index.html
-
-git add --all
-
-git commit -m "Initial commit"
-
-git push -u origin main
-
