@@ -1,15 +1,3 @@
 # Table of Contents
 
 
-git clone https://github.com/capps14e/capps14e.github.io
-
-cd capps14e.github.io
-
-echo "Hello World" > index.html
-
-git add --all
-
-git commit -m "Initial commit"
-
-git push -u origin main
-
