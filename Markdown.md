@@ -1,7 +1,7 @@
 # Markdown
 
 
-<hr></hr>
+<hr>
 
 
 **What is Markdown?**  *Answer:* Markdown is a lightweight, simplified programming language that we can use  to add formatting elements to plaintext documents.
@@ -20,4 +20,4 @@
 
 **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?** *Answer:*
 (*) (-) (+)
-<hr></hr>
+<hr>
