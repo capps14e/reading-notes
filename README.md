@@ -21,3 +21,4 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 2. [CSS](/CSS.md)
 3. [HTML](/HTML.md)
 4. [Basics of Markdown](/BasicsofMarkdown.md)
+5. [Revisions of the Cloud](/RevisionsoftheCloud.md)
