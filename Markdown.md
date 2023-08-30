@@ -19,5 +19,5 @@
 **How do you create a link with Markdown?** *Answer:* [My Page](https://github.com/capps14e)
 
 **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?** *Answer:*
-* - +
+(*) (-) (+)
 <hr></hr>
