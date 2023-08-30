@@ -14,7 +14,7 @@
 
 **How many do you need to create the smallest heading?** *Answer:* 6
 
-**When making text bold or italicized for emphasis, it is best practice to use which symbol? *Answer:* Use ** for bold and * for italics.
+**When making text bold or italicized for emphasis, it is best practice to use which symbol? *Answer:* Use ** for **bold** and * for *italics*.
 
 **How do you create a link with Markdown?** *Answer:* [My Page](https://github.com/capps14e)
 
