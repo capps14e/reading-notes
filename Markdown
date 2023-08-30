@@ -1,2 +1,8 @@
-# Markdown
+### Markdown
+
+
+
+Markdown is a lightweight, simplified programming language that we can use  to add formatting elements to plaintext documents.
+
+You can utilize markdown to create websites, docs and even emails. Markdown can add extra flair to things like, text color, borders, italics, bullet points, etc.
 
