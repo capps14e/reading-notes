@@ -18,3 +18,8 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 
 ![image](https://github.com/capps14e/capps14e.github.io/assets/143365157/e473daca-2990-473e-8b25-ff77f27daf50)
 
+# Table of Contents
+1. [Markdown](#Markdown)
+2. [CSS](#CSS)
+
+
