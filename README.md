@@ -17,6 +17,6 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 
 # Table of Contents
 
-1. [Markdown](#Markdown)
+1. [Markdown](/Markdown.md)
 2. [CSS](/CSS.md)
-3. [HTML](#HTML)
+3. [HTML](/HTML.md)
