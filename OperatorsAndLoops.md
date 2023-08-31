@@ -2,12 +2,12 @@
 
 <hr>
 
-What is an expression in JavaScript?
+(Q) **What is an expression in JavaScript?** (A). *An expression is a valid unit of code that resolves to a value.*
 
-Why would we use a loop in our code?
+(Q) **Why would we use a loop in our code?** (A). *Loops offer a quick and easy way to do something repeatedly.*
 
-When does a for loop stop executing?
+(Q) **When does a *for* loop stop executing?** (A). *When the designated end of the range is reached.*
 
-How many times will a while loop execute?
+(Q) **How many times will a while loop execute?** (A). *Indefinite as long as condition remains True.*
 
 <hr>
