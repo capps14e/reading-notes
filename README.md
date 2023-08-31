@@ -24,5 +24,6 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 5. [Revisions and the Cloud](/RevisionsandtheCloud.md)
 6. [JavaScript](/JavaScript.md)
 7. [Programming With JavaScript](/ProgrammingWithJavaScript.md)
+8. [Command Lines](/CommandLines.md)
 
   
