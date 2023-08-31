@@ -15,7 +15,7 @@
 - **pwd** -    *prints the path of the working directory*
 - **ls** -  *lists names of files and directories*
 - **cd** -  *change current working directory*
-- **mkdir** -  *allows user to create directories*
+- **mkdir** -  *allows user to create folders*
 - **touch** -  *create or mopdify timestamps*
 
 ## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
@@ -26,4 +26,4 @@
 - **cd ..**
 - **ls projects/new-project**
 
-User is creating a new directory, making timestamp and then navigating to new directory.
+*User is creating a new folder, making timestamp and then verfies location of new folder.*
