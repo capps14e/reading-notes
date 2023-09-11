@@ -48,7 +48,7 @@ let y = 69;
 
 * **How is the <meta> HTML tag used when specifying metadata?**
 
-  It is used to specify metadeta within the HTML content. Example meta name="title" content="My Website Title"
+  It is used to specify metadata within the HTML content. Example meta name="title" content="My Website Title"
 
   
   <hr>
