@@ -52,4 +52,10 @@ let y = 69;
 
   
   <hr>
-  
+
+  ## Things I want to know more about
+
+  * Javascript! How the hell does it work?
+  * Advanced HTML
+  * Weird and crazy scripts
+    
