@@ -27,5 +27,6 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 8. [Command Lines](/CommandLines.md)
 9. [Operators and Loops](/OperatorsAndLoops.md)
 10. [Prompt Engineering](/prompt-engineering.md)
+11. [Class 01](/class-01.md)
 
   
