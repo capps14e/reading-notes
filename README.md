@@ -28,5 +28,6 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 9. [Operators and Loops](/OperatorsAndLoops.md)
 10. [Prompt Engineering](/prompt-engineering.md)
 11. [Class 01](/class-01.md)
+12. [Readings: Basics of HTML, CSS & JS](/Basics-of-HTML-CSS-and-JS.md)
 
   
