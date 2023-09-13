@@ -49,18 +49,32 @@
 
 5. **Which components are considered properties?**
 
+   *color: and padding:*
+
 <hr>
 
 1. **An if statement checks a __ and if it evaluates to ___, then the code block will execute.**
 
-2. **What is the use of an else if?**
+    *condition, true*
 
-3. **List 3 different types of comparison operators.**
+3. **What is the use of an else if?**
 
-4. **What is the difference between the logical operator && and ||?**
+    *It is used to execute a block of code if a specified condition is true, and if the first condition is false.
+
+4. **List 3 different types of comparison operators.**
+
+   * =
+   * <=
+   * !=
+
+6. **What is the difference between the logical operator && and ||?**
+
+    *The && operator is called the logical AND operator, and the || operator is called the logical OR operator.*
 
 
 <hr>
+
+*With help from [Bard](https://bard.google.com/)*
 
 
 
