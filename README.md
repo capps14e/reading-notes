@@ -32,6 +32,7 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 13. [Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](/HTML-Lists-Control-Flow-with-JS-and-the-CSS-Box-Model.md)
 14. [Readings: HTML Links, JS Functions, and Intro to CSS Layout](HTML-Links-JS-Functions-and-Intro-to-CSS-Layout.md)
 15. [Readings: Images, Color, Text](Images-Color-Text.md)
+16. [Readings: Problem Domain, Objects, and the DOM](Problem-Domain-Objects-and-the-DOM.md)
 
 
   
