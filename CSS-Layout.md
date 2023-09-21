@@ -46,6 +46,6 @@
 
   <hr>
 
-  With help from [Bard}(https://bard.google.com/)
+  With help from [Bard](https://bard.google.com/)
 
 
