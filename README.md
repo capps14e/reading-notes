@@ -33,6 +33,7 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 14. [Readings: HTML Links, JS Functions, and Intro to CSS Layout](HTML-Links-JS-Functions-and-Intro-to-CSS-Layout.md)
 15. [Readings: Images, Color, Text](Images-Color-Text.md)
 16. [Readings: Problem Domain, Objects, and the DOM](Problem-Domain-Objects-and-the-DOM.md)
+17. [Readings: Object-Oriented Programming, HTML Tables](Object-Oriented-Programming-HTML-Tables.md)
 
 
   
