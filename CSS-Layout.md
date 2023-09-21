@@ -42,7 +42,7 @@
 
 - How does this topic connect with your long term goals?
 
-  *One of my long term goals is to make great looking, accessible websites; flexbox will help achieve that."
+  *One of my long term goals is to make great looking, accessible websites; flexbox will help achieve that.*
 
   <hr>
 
