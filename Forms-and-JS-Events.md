@@ -71,4 +71,4 @@ Event capturing is less efficient, but it can be useful in some cases. For examp
 <hr>
 
 
-With help from [Bard](https://bard.google.com/)
+With some help from [Bard](https://bard.google.com/)
