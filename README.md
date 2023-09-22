@@ -35,6 +35,7 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 16. [Readings: Problem Domain, Objects, and the DOM](Problem-Domain-Objects-and-the-DOM.md)
 17. [Readings: Object-Oriented Programming, HTML Tables](Object-Oriented-Programming-HTML-Tables.md)
 18. [Readings: CSS Layout](CSS-Layout.md)
+19. [Readings: Forms and JS Events](Forms-and-JS-Events.md)
 
 
   
