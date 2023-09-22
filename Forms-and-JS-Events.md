@@ -54,13 +54,21 @@
 
 - What is the difference between event bubbling and event capturing?
 
-  *Event bubbling and event capturing are two ways that events are propagated in the DOM tree. Event bubbling is the default behavior. Event capturing is the opposite of event bubbling.
+  *Event bubbling and event capturing are two ways that events are propagated in the DOM tree. Event bubbling is the default behavior. Event capturing is the opposite of event bubbling.*
   
 
   ![image](https://github.com/capps14e/reading-notes/assets/143365157/33743346-29e5-4c69-91de-2bf584946290)
+
+
+  *Event bubbling is the default behavior because it is more efficient. When an event bubbles up the DOM tree, it only needs to be processed by each element once.
+Event capturing is less efficient, but it can be useful in some cases. For example, you could use event capturing to stop an event from bubbling up to the parent elements.*
+
+
+  
 
 
 
 <hr>
 
 
+With help from [Bard](https://bard.google.com/)
