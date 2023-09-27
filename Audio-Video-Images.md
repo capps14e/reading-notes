@@ -40,41 +40,37 @@
 
 - Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
 
-
-
-*Grid container is the element that contains the grid layout. It is the element to which you apply the display: grid or display: inline-grid CSS property.
-Grid item is any element that is placed inside a grid container. Grid items can be any type of element, such as divs, images, text, and even other grid containers.
-Grid line is a line that divides a grid container into rows and columns. Grid lines are invisible, but they are used to position grid items within the grid.*
-
-
-
-<hr
+    *Grid container is the element that contains the grid layout. It is the element to which you apply the display: grid or display: inline-grid CSS property.
+    Grid item is any element that is placed inside a grid container. Grid items can be any type of element, such as divs, images, text, and even other grid containers.
+    Grid line is a line that divides a grid container into rows and columns. Grid lines are invisible, but they are used to position grid items within the grid.*
 
 
 
+<hr>
 
-- Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
+1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
 
-
-
-  1. Improved User Experience
-  2. Mobile Optimization
-  3. Faster Loading Times
-  4. Bandwidth Efficiency
-  5. Accessibility
-  6. Flexibility
-
-
-
-- Define the following img attributes srcset and sizes. Write an example of how they are used.
+  - Improved User Experience
+  - Mobile Optimization
+  - Faster Loading Times
+  - Bandwidth Efficiency
+  - Accessibility
+  - Flexibility
 
 
 
-  *The srcset and sizes attributes on the img element allow you to provide multiple image sources and hints to the browser, so that it can choose the most appropriate image to display based on the user's device and viewport size.*
+
+
+2. Define the following img attributes srcset and sizes. Write an example of how they are used.
 
 
 
-- How is srcset more helpful for responsive images than CSS or JavaScript?
+  *The srcset and sizes attributes on the img element allow you to provide multiple image sources and hints to the browser, so that it can choose the most appropriate image to display based on the user's  
+  device and viewport size.*
+
+
+
+3. How is srcset more helpful for responsive images than CSS or JavaScript?
 
 
 
@@ -85,3 +81,4 @@ Grid line is a line that divides a grid container into rows and columns. Grid li
 <hr>
 
 
+With help from [Bard](https://bard.google.com/) and [ChatGPT](https://chat.openai.com/)
