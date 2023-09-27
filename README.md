@@ -37,6 +37,7 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 18. [Readings: CSS Layout](CSS-Layout.md)
 19. [Readings: Forms and JS Events](Forms-and-JS-Events.md)
 20. [Readings: Debugging](Debugging.md)
+21. [Readings: Audio, Video, Images](Audio-Video-Images.md)
 
 
   
