@@ -40,6 +40,7 @@ Growth Mindset is this; continually embrace hardship, and you will learn.
 21. [Readings: Audio, Video, Images](Audio-Video-Images.md)
 22. [Readings: Chart.js, Canvas](ChartJS-Canvas.md)
 23. [Readings: Local Storage](Local-Storage.md)
+24. [Readings: Psychological Safety](Psychological-Safety.md)
 
 
   
